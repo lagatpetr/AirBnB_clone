@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 footer {
     background-color: white;
     position: fixed;
@@ -9,3 +10,12 @@ footer {
     display: flex;
     justify-content: center;
   }
+=======
+footer{
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 60px;
+}
+>>>>>>> 2bfec54ed2828589eba9675cef33f6ed20baa3aa

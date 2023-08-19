@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header {
     background-color: white;
     height: 70px;
@@ -13,3 +14,11 @@ header {
     background: url('../images/logo.png') no-repeat center;
     padding-left: 20px;
   }
+=======
+header{
+    color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: ipx #cccccc;
+}
+>>>>>>> 2bfec54ed2828589eba9675cef33f6ed20baa3aa
